@@ -11,7 +11,7 @@ index.html - The Index document for the website.
 
 I have changed the Project name to be my Name Mohammed Dawood.
 
-and here is the git hub link fot the repo:
+and here is the github link for the repo:
 https://github.com/MohammmedDawood/deploy-a-static-website-on-aws 
 
 Here is the access to the website:
